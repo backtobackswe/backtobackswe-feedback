@@ -1,3 +1,5 @@
+#Back To Back SWE
+<br/> <br/>
 ---
 name: Bug report
 about: Create a bug report to help us improve our content.
@@ -15,13 +17,13 @@ you click on submit.
 
 <br/><br/>
 
-#### Your BackToBackSWE username
+#### Your BackToBackSWE username :
 <!-- Your BackToBackSWE username -->
 
 <br/><br/>
 
 
-#### Category of the bug
+#### Category of the bug :
 - [ ] Question
 - [ ] Solution
 - [ ] Language
@@ -29,13 +31,13 @@ you click on submit.
 <br/><br/>
 
 
-#### Description of the bug
+#### Description of the bug :
 <!-- A clear and concise description of what the bug is. -->
 
 <br/><br/>
 
 
-#### Code you used for Submit/Run operation
+#### Code you used for Submit/Run operation :
 <!-- 
 Please make sure you wrap your code with ``` tags. 
 Otherwise we may reject your request. 
@@ -48,26 +50,26 @@ Otherwise we may reject your request.
 
 <br/><br/>
 
-#### Language used for code
+#### Language used for code :
 <!-- C++ -->
 
 <br/><br/>
 
-#### Expected behavior
+#### Expected behavior :
 <!-- A clear and concise description of what you expected to happen in
 contrast with what actually happened. -->
 
 <br/><br/>
 
 
-#### Screenshots
+#### Screenshots :
 <!-- If applicable, add screenshots to explain your issue. -->
 
 <br/><br/>
 
 
 
-#### Additional context
+#### Additional context :
 <!-- Add any other additional context about the bug. -->
 
 <br/><br/>
