@@ -1,11 +1,11 @@
---
+---
 name: Bug report
 about: Create a bug report to help us improve our content.
 title: ''
 labels: ''
 
 
---
+---
 
 <!--
 Note - Any content mentioned below in `<!-- ->` blocks are just comments
