@@ -14,7 +14,7 @@ you click on submit.
 -->
 
 #### Your BackToBackSWE username
-<!-- Your LeetCode username -->
+<!-- Your BackToBackSWE username -->
 
 
 #### Category of the bug
