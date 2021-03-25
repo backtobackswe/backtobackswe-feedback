@@ -1,12 +1,11 @@
-#Back To Back SWE
+# Back To Back SWE
 <br/> <br/>
+
 ---
 name: Bug report
 about: Create a bug report to help us improve our content.
 title: ''
 labels: ''
-
-
 ---
 
 <!--
