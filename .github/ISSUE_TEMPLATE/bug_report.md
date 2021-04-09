@@ -12,7 +12,7 @@ you click on submit.
 
 <br/><br/>
 
-#### Your BackToBackSWE username :
+#### Your email registered on BackToBackSWE  :
 <!-- Your BackToBackSWE username -->
 
 <br/><br/>
@@ -47,6 +47,12 @@ Otherwise we may reject your request.
 
 #### Language used for code :
 <!-- C++ -->
+<!-- Java -->
+<!-- Python -->
+<!-- JavaScript -->
+<!-- C# -->
+<!-- Swift -->
+
 
 <br/><br/>
 
